@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+👋 Hi, I’m Fabio Franco — a passionate Senior Full-Stack Engineer with over 25 years of experience building scalable sofware, specially web applications and cloud solutions.
+
+🚀 Currently leading the Web Tier Team at CData (formerly Data Virtuality), where I focus on architecting and developing a robust Data Virtualization SaaS application using Angular and Java, integrating seamlessly with APIs and other backend systems. I’m also the mind behind ignite.rocks, an AI-driven OKR management platform for organizations.
+
+💡 I’ve worked across a wide spectrum of technologies — from Java (using freworks such as Spring Boot), Next.js, SQL and no-SQL (such as MongoDB) on the backend (amongst others), to TypeScript (Angular and React), SCSS, and Material Design on the frontend. I’ve built infrastructure on AWS, handled Kubernetes deployments, and contributed to high-scale applications involving Kafka and Argo Workflows.
+
+🧠 My passion for AI and data engineering drives me to explore cutting-edge tools and integrations, especially around AI-assisted web applications and productivity-focused SaaS platforms.
+
+🎸 When I’m not coding, I’m probably playing guitar in my home studio, mixing tracks on Logic Pro, or training in Brazilian Jiu-Jitsu. I also love digging into astrophysics, physics, and all things sci-fi.
+
+📬 Feel free to connect or check out my projects — I’m always open to collaboration and exciting new challenges.
+
+📫 How to reach me:
+- ✉️ Email: fabiofranco.php@gmail.com | fabiofranco@ignite.rocks | fabiofranco@fabiofranco.me  
+- 📷 Instagram: [@fabiofrancomusic](https://instagram.com/fabiofrancomusic)
+
 <!--
 **fabiofranco85/fabiofranco85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

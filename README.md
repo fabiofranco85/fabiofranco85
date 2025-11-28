@@ -1,6 +1,6 @@
 ## Hi, I’m Fabio Franco 👋
 
-A passionate **Senior Full-Stack Engineer** with over 25 years of experience building scalable software, with a strong focus on web applications and cloud solutions.
+A passionate **Senior Full-Stack Engineer** with over 26 years of experience building scalable software, with a strong focus on web applications and cloud solutions.
 
 🚀 Currently leading the **Web Tier Team at CData** (formerly Data Virtuality), where I architect and develop a robust data virtualization SaaS application using **Angular** and **Java**, seamlessly integrating with APIs and other backend systems. I’m also the mind behind **ignite.rocks**, an AI-driven OKR management platform for organizations.
 

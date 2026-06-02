@@ -13,7 +13,7 @@ Feel free to connect or check out my projects. I’m always open to collaboratio
 **How to reach me:**
 - Email: fabiofranco@f2tecnologia.com
 - Instagram: [@fabiofrancomusic](https://instagram.com/fabiofrancomusic)
-- Linkedin: [fabioibfranco]([https://instagram.com/fabiofrancomusic](https://www.linkedin.com/in/fabioibfranco)
+- Linkedin: [fabioibfranco](https://www.linkedin.com/in/fabioibfranco)
 
 <!--
 **fabiofranco85/fabiofranco85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

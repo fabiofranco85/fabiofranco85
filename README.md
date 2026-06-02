@@ -8,7 +8,7 @@ My passion for **AI** and **data engineering** drives me to explore cutting-edge
 
 When I’m not coding, I’m likely playing guitar in my home studio, mixing tracks on **Logic Pro**, or training in **Brazilian Jiu-Jitsu**. I also love diving into astrophysics, physics, and all things sci-fi.
 
-Feel free to connect or check out my projects — I’m always open to collaboration and exciting new challenges.
+Feel free to connect or check out my projects. I’m always open to collaboration and exciting new challenges.
 
 **How to reach me:**
 - Email: fabiofranco@f2tecnologia.com
